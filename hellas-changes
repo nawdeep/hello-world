@@ -1,0 +1,30 @@
+Save button doesn't come after adding all in folders option, if you miss to enter name of mapping - ( include in Sweety's story )
+resolve 'fn.apply' error
+resolve 'name of a field not defined' kind of error while saving mapping (c2c)
+"input": "TypeError: Cannot read property 'title' of null" -c2c
+or method "hasError" is not defined - product definition
+On configurations update- update session data for catalogs and all
+Make product names unique
+Use jsession instead of userName
+Validation on save and update template
+Validation of same mapping name in mappings save
+
+resolve 'property HRN not defined on selecting history layer' error
+Remove hardcoded passwords (for XYZ my bearer is used)
+modify Jenkins docker commands so that it removes just Hellas images and containers and also check if its present before removing.
+
+Give option to delete configuration
+Save option should be there even if we don't expand all layers.
+After saving a new mapping, redirection takes to homepage with but tab selection is not correct.
+
+Remove cors in production
+Common css at one place
+Common JS import at one place
+Discuss about products and templates - what is correct
+Url has to be modified
+Check why user images doesn't appear for someone
+Maintain error logs
+checkmark inclusion 
+J-meter inclusion
+admin config settings
+Check for inserting same new key for configuration in frontend
